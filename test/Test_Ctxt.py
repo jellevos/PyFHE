@@ -1,6 +1,6 @@
-from Ctxt import Ctxt
-from FHE import FHE
-from numTh import *
+from src.Ctxt import Ctxt
+from src.FHE import FHE
+from src.numTh import *
 import numpy as np
 import cProfile as cp
 import time

@@ -1,6 +1,6 @@
-from FHE import FHE
-from CRTPoly import CRTPoly
-from numTh import findPrimes
+from src.FHE import FHE
+from src.CRTPoly import CRTPoly
+from src.numTh import findPrimes
 import numpy as np
 
 

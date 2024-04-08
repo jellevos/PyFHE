@@ -1,5 +1,5 @@
-from CRTPoly import CRTPoly
-from numTh import *
+from src.CRTPoly import CRTPoly
+from src.numTh import *
 import numpy as np
 
 poly = [12, 33, 14, 53]

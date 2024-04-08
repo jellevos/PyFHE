@@ -1,3 +1,5 @@
 misc/
 __pycache__/
 profile/
+*.egg-info*
+venv/
