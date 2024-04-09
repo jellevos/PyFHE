@@ -1,5 +1,5 @@
-from src.NTT import NTT
-from src.numTh import *
+from PyFHE.NTT import NTT
+from PyFHE.numTh import *
 import numpy as np 
 
 poly1 = [1,0,1,1]

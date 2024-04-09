@@ -1,6 +1,6 @@
-from src.FHE import FHE
-from src.CRTPoly import CRTPoly
-from src.numTh import findPrimes
+from PyFHE.FHE import FHE
+from PyFHE.CRTPoly import CRTPoly
+from PyFHE.numTh import findPrimes
 import numpy as np
 
 
